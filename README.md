@@ -8,6 +8,8 @@ This list is in no way complete and does not guarantee that a given host is sure
 
 Some of this data is sourced from the excellent [phpversions.info](https://github.com/philsturgeon/phpversions.info) which was created by @philsturgeon and is maintained by the PHP community at large. The data has simply been formatted to match our requirements.
 
+Any new data that we receive will be sent upstream back to phpversions.info wherever possible to benefit the rest of the community.
+
 ## Contributing
 
 To contribute to this list, please open a pull request with an edit against the `hosts.md` file ensuring that the company names are kept in alphabetical order.
