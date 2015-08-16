@@ -1,4 +1,4 @@
-# 2.0-Hosts
+# 2.0 Hosts
 
 This repository contains a list of web hosts that run a PHP version greater than PHP 5.5.9, which is required for MyBB 2.0.
 
