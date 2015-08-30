@@ -77,6 +77,9 @@
 - [STRATO](http://www.strato.de)
   * **php55**: 18
   * **php56**: 2
+  * 
+   [T1Hosting](https://t1hosting.com)
+  * **php55**: 28
 
 - [TsoHost](https://www.tsohost.com)
   * **php55**: 12
