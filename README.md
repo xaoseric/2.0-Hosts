@@ -14,4 +14,4 @@ Any new data that we receive will be sent upstream back to phpversions.info wher
 
 To contribute to this list, please open a pull request with an edit against the `hosts.md` file ensuring that the company names are kept in alphabetical order.
 
-Please try to keep the list to shared hosting companies rather than VPS or dedicated server providers where users can usually install and PHP version they wish.
+Please try to keep the list to shared hosting companies rather than VPS or dedicated server providers where users can usually install any PHP version they wish.
