@@ -12,7 +12,8 @@
 
 - [Aruba.it](http://hosting.aruba.it/)
   * **php55**: 28
-
+- [BlueHost](https://bluehost.com)
+  * **php56**: yes
 - [Crucial (Split Shared)](http://www.crucialwebhost.com/hosting/split-shared/)
   * **php55**: 20
   * **php56**: 4
