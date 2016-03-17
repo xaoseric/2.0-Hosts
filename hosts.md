@@ -91,3 +91,13 @@
 
 - [WebFaction](https://www.webfaction.com)
   * **php56**: 5.6.4
+
+- [BuyShared](http://buyshared.net)
+  * **php44**: 4.4
+  * **php51**: 5.1
+  * **php52**: 5.2
+  * **php53**: 5.3
+  * **php54**: 5.4
+  * **php55**: 5.5
+  * **php56**: 5.6
+  * **php70**: 7.0
