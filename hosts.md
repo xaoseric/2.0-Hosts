@@ -45,7 +45,7 @@
 - [HostGator](http://www.hostgator.com/shared)
   * **php55**: 19
  
-- [Hostinger](http://www.hostinger.com/
+- [Hostinger](http://www.hostinger.com/)
   * **php55**: 32
   * **php56**: 18
   * **php70**: 3
