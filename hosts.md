@@ -12,8 +12,15 @@
 
 - [Aruba.it](http://hosting.aruba.it/)
   * **php55**: 28
+ 
 - [BlueHost](https://bluehost.com)
   * **php56**: yes
+
+- [BuyShared](http://buyshared.net)
+  * **php55**: 5.5
+  * **php56**: 5.6
+  * **php70**: 7.0
+ 
 - [Crucial (Split Shared)](http://www.crucialwebhost.com/hosting/split-shared/)
   * **php55**: 20
   * **php56**: 4
@@ -37,6 +44,11 @@
 
 - [HostGator](http://www.hostgator.com/shared)
   * **php55**: 19
+ 
+- [Hostinger](http://www.hostinger.com/
+  * **php55**: 32
+  * **php56**: 18
+  * **php70**: 3
 
 - [Krystal](https://krystal.co.uk/)
   * **php55**: 20
@@ -90,14 +102,4 @@
   * **php55**: 12
 
 - [WebFaction](https://www.webfaction.com)
-  * **php56**: 5.6.4
-
-- [BuyShared](http://buyshared.net)
-  * **php44**: 4.4
-  * **php51**: 5.1
-  * **php52**: 5.2
-  * **php53**: 5.3
-  * **php54**: 5.4
-  * **php55**: 5.5
-  * **php56**: 5.6
-  * **php70**: 7.0
+  * **php56**: 4
