@@ -8,7 +8,8 @@
   * **php55**: 25
 
 - [A Small Orange](https://asmallorange.com/hosting/shared/#tab-two)
-  * **php55**: 18
+  * **php55**: 34
+  * **php56**: 20
 
 - [Aruba.it](http://hosting.aruba.it/)
   * **php55**: 28
