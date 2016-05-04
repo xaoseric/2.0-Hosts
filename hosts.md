@@ -92,6 +92,9 @@
   * **php55**: 18
   * **php56**: 2
   
+- [Supcloud](http://www.supcloud.net)
+  * **php55**: 28
+  
 - [T1Hosting](https://t1hosting.com)
   * **php55**: 28
 
