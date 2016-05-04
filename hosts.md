@@ -101,6 +101,9 @@
 - [TsoHost](https://www.tsohost.com)
   * **php55**: 12
   * **php56**: 8
+  
+- [Versio](http://www.versio.nl/)
+  * **php55**: 31
 
 - [VidaHost](https://www.vidahost.com/cloud-web-hosting)
   * **php55**: 12
